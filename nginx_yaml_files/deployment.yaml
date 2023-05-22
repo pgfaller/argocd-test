@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: nginx
-    doc: changeable3
+    doc: changeable4
   name: nginx-deployment
 spec:
   replicas: 1
